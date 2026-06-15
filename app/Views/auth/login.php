@@ -27,10 +27,7 @@
                 <div style="margin-top:1.5rem;padding-top:1.5rem;border-top:1px solid var(--light-2);text-align:center;">
                     <p style="color:var(--gray);font-size:.9rem;">Pas encore de compte ? <a href="<?= base_url('/auth/register') ?>" style="font-weight:600;">Créer un compte</a></p>
                 </div>
-                <div style="margin-top:1rem;padding:.8rem;background:var(--light);border-radius:var(--radius);font-size:.75rem;color:var(--gray);">
-                    <strong>Comptes démo :</strong> admin@mboafood.cm / client@mboafood.cm / livreur@mboafood.cm<br>
-                    <em>Mot de passe : <strong>password</strong></em>
-                </div>
+                
             </div>
         </div>
     </div>
